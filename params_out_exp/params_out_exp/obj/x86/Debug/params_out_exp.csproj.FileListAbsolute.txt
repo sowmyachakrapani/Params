@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\params_out_exp\params_out_exp\bin\Debug\params_out_exp.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\params_out_exp\params_out_exp\bin\Debug\params_out_exp.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\params_out_exp\params_out_exp\obj\x86\Debug\params_out_exp.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\params_out_exp\params_out_exp\obj\x86\Debug\params_out_exp.pdb

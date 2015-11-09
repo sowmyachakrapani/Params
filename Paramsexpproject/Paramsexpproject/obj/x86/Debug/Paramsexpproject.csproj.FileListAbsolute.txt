@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsexpproject\Paramsexpproject\bin\Debug\Paramsexpproject.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsexpproject\Paramsexpproject\bin\Debug\Paramsexpproject.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsexpproject\Paramsexpproject\obj\x86\Debug\Paramsexpproject.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsexpproject\Paramsexpproject\obj\x86\Debug\Paramsexpproject.pdb

@@ -1,0 +1,5 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\paramsexp2\paramsexp2\bin\Debug\paramsexp2.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\paramsexp2\paramsexp2\bin\Debug\paramsexp2.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\paramsexp2\paramsexp2\obj\x86\Debug\paramsexp2.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\paramsexp2\paramsexp2\obj\x86\Debug\paramsexp2.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\paramsexp2\paramsexp2\obj\x86\Debug\paramsexp2.csprojResolveAssemblyReference.cache

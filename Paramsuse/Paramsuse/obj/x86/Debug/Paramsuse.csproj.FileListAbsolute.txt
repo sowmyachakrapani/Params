@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsuse\Paramsuse\bin\Debug\Paramsuse.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsuse\Paramsuse\bin\Debug\Paramsuse.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsuse\Paramsuse\obj\x86\Debug\Paramsuse.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Paramsuse\Paramsuse\obj\x86\Debug\Paramsuse.pdb
